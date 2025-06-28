@@ -24,7 +24,6 @@ I’m a big believer in clean code, good architecture, and continuous learning.
 </p>
 
 ---
----
 
 ### 📫 Contact Me
 
