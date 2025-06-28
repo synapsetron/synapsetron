@@ -37,3 +37,10 @@ I’m a big believer in clean code, good architecture, and continuous learning.
   </a>
 </p>
 
+---
+
+⬇️ **Check out my projects below** ⬇️
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aleen42/PersonalWiki/master/images/arrow-down.gif" width="60" height="60" alt="Down arrow" />
+</p>
