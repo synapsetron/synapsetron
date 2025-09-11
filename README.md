@@ -19,7 +19,7 @@ I’m a big believer in clean code, good architecture, and continuous learning.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,githubactions,docker,kubernetes,arch,aws,azure,gcp,cs,dotnet,html,css,react,notion,obsidian" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,arch,aws,azure,gcp,cs,dotnet,html,css,react,notion,obsidian" />
   </a>
 </p>
 
